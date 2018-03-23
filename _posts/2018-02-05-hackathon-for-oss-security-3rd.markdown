@@ -12,3 +12,6 @@ The event is free of charge and will cover [projects](/team/) such as: [MISP thr
 The hackathon will take place in the [CIRCL](https://www.circl.lu/) office at the new [C3 Cyber Competence Center](https://www.c-3.lu/) in Luxembourg.
 
 To register [for the third edition of the Open Source Security Software hackathon](https://www.eventbrite.com/e/open-source-security-software-hackathon-3rd-edition-tickets-42862264186)
+
+In addition to the Hackathon in Luxemoburg, we are proud to also have a Hackathon in Tōkyō at the premises of [JPCERT/CC](http://bit.ly/JPCERT_TokyoMap).
+The format will be the same, the continent will be another. [More information can be found here](https://www.eventbrite.com/e/open-source-security-software-hackathon-1st-tokyo-edition-tickets-42898192649)
